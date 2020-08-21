@@ -4,5 +4,5 @@ document.addEventListener("DOMContentLoaded", function() {
 });
 
 function loadedDOM(){
-  document.getElementById('text').innerHTML = "This is really cool!";
+  document.getElementById("text").innerHTML = "This is really cool!";
 }
